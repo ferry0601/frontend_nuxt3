@@ -17,7 +17,7 @@
         </nav>
 
         <div class="w-full">
-            <img src="/Hero.png" class="md:mx-auto w-full">
+            <img src="~/Hero.png" class="md:mx-auto w-full">
             <div class="md:absolute bg-white rounded-lg left-72 top-24 py-10 px-6 w-[500px]">
                 <h1 class="text-black font-semibold text-[30px] w-80">Réservez des hébergements et des activités uniques.</h1>
                 <div class="w-96 mt-10 uppercase text-md ">
